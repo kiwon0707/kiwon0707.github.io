@@ -1,0 +1,23 @@
+body {
+  background-image: url('MainP.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 32px;
+  position: relative;
+  bottom: 70px;
+  font-size: 100pt;
+  font-family: "TimesNewRoman", cursive;
+  color: white;
+  text-align: top;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}

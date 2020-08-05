@@ -1,0 +1,16 @@
+body {
+  background-color: #E7F1FD;
+}
+
+#photo {
+  height: 100%;
+  position: relative;
+  top: -20px;
+}
+
+#img1 {
+  padding-left: 210px;
+  height: 300; 
+  width: 340;
+}
+

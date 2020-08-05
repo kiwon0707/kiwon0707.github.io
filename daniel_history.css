@@ -1,0 +1,26 @@
+body {
+	  background-color: #E7F1FD;
+}
+
+#historyAboutus {
+  height: 100%;
+  font-family: "Lucida Console", Courier, monospace;
+  color: #a49998;
+  position: relative;
+  top: -20px;
+}
+
+#history {
+	width: 50%;
+	margin: auto ;
+}
+
+#history img{
+	width: 100%;
+}
+
+p {
+	padding-right: 100px;
+	padding-left: 100px;
+	text-align: justify;
+}

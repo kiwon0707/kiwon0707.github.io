@@ -1,0 +1,75 @@
+span {
+  font-size: 25pt;
+  position: absolute;
+  top: 370px;
+}
+
+.optionBar  {
+  overflow: hidden;
+  background-color: #5D7DA9;
+  font-family: "Palatino Linotype", serif;
+}
+
+.optionBar a {
+  float: left;
+  color: #0b363d;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Palatino Linotype", serif;
+  position: relative;
+  left: 300px; 
+}
+
+.optionBar a:hover {
+  background-color: #0c4f75;
+  color: white;
+}
+
+.optionBar a.active  {
+  background-color: #a8908a;
+  color: white;
+}
+
+img {
+  height: 300px;
+  width: 260px;
+  border: 4px double grey;
+}
+
+h3 {
+  font-size: 30pt;
+  font-family: "Apple Chancery", cursive;
+  color: white;
+  background-color: #5D7DA9;
+  text-align: center;
+}
+
+p {
+  font-size: 18pt;
+  font-family: "Baskerville";
+  color: #a49998;
+}
+
+li {
+  font-size: 18pt;
+  font-family: "Baskerville";
+  color: #a49998;
+}
+
+footer {
+  font-size: 15pt;
+  font-family: "Baskerville";
+  color: white;
+  background-color: #5D7DA9;
+  word-spacing: 5px;
+  position: relative;
+  left: 0%;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 25px;
+}
+

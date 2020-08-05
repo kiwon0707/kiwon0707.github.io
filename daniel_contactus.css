@@ -1,0 +1,17 @@
+#contactUs {
+  height: 100%;
+  font-family: "Lucida Console", Courier, monospace;
+  color: #a49998;
+  position: relative;
+  top: -20px;
+  font-size: 18pt;
+  padding-left: 400px;
+}
+
+#contactImg {
+	width: 600px;
+}
+
+body {
+  background-color: #E7F1FD;
+}

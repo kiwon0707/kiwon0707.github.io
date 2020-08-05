@@ -1,0 +1,23 @@
+body {
+	  background-color: #E7F1FD;
+}
+
+#reportActivity {
+  height: 100%;
+  font-family: "Lucida Console", Courier, monospace;
+  color: #a49998;
+  position: relative;
+  top: -20px;
+}
+
+#reportPic {
+  width: 500px;
+  margin: auto;
+}
+
+p {
+	padding-right: 100px;
+	padding-left: 100px;
+	text-align: justify;
+}
+
